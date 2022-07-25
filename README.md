@@ -1,0 +1,2 @@
+# Covid-19-Analysis
+Pandemi COVID-19 telah memasuki tahun ketiganya. Dalam waktu yang sangat singkat itu, dunia berhasil bekerja sama untuk mencari jalan keluar menuju pemulihan kehidupan bermasyarakat melalui berbagai kebijakan kesehatan dan sosial-ekonomi. Vaksin berhasil ditemukan dan masyarakat mulai menerimanya. Selama periode ini, pembuat kebijakan dan pemangku kepentingan berhasil memanfaatkan data untuk menavigasi ketidakpastian, melewati rintangan, serta mencari peluang-peluang baru dalam perumusan strategi pemulihan.
